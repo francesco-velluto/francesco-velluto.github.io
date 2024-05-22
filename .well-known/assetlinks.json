@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mad.g02.projectmastery",
+      "sha256_cert_fingerprints":
+      ["EE:44:46:F6:8F:02:CA:2E:24:A4:79:01:55:DB:02:69:00:2B:B3:8B:80:EE:37:36:E3:BB:5C:E3:92:DD:C2:F8"]
+    }
+  }]
